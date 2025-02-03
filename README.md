@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy Josue Jean Franco Palomino Huamani 👋 </h1>
 
-<!--
-**Josue644/Josue644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Image](https://github.com/user-attachments/assets/e1421e47-8347-4379-beaa-1aaf28c58ae8)
 
-Here are some ideas to get you started:
+Soy un apasionado de la tecnología, el desarrollo y el diseño. Me encanta crear soluciones innovadoras y aprender constantemente sobre nuevas herramientas y tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Siempre estoy aprendiendo y explorando nuevas tendencias.
+
+📫 Puedes contactarme a través de Gmail o Linkedin.
+
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+---
+
+> <h3 align="center"> "El aprendizaje nunca se detiene." 🚀 </h3>
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/josue-jean-franco-palomino-huamani-414072285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+</p>
