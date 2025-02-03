@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Josue Jean Franco Palomino Huamani 👋 </h1>
 
-![Image](https://github.com/user-attachments/assets/e1421e47-8347-4379-beaa-1aaf28c58ae8)
+![Image](https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/03/que-se-necesita-estudiar-para-ser-programador-scaled.jpg)
 
 Soy un apasionado de la tecnología, el desarrollo y el diseño. Me encanta crear soluciones innovadoras y aprender constantemente sobre nuevas herramientas y tecnologías.
 
